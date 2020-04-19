@@ -1,4 +1,4 @@
-# PoC with best coding ptactices for SpringBoot 2.6.2
+# PoC with best coding practices for SpringBoot 2.6.2
 
 ## Used Spring JPA as CRUD Resources
 
